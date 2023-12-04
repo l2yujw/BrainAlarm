@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BrainAlarm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="operand1">63</string>
+    <string name="operand2">743</string>
+    <string name="operator">+</string>
+    <string name="stop">STOP!!!</string>
+    <string name="time">05:00 AM</string>
+    <string name="clock">Clock</string>
+    <string name="answer">Answer</string>
+    <string name="recurring">Recurring alarm</string>
+    <string name="days">Mo Tu We Th Fr</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="alarm_title">Set Alarm Title</string>
+    <string name="recurring_alarm">Recurring Alarm</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+    <string name="mon">Mo</string>
+    <string name="tue">Tu</string>
+    <string name="wed">We</string>
+    <string name="thu">Th</string>
+    <string name="fri">Fr</string>
+    <string name="sat">Sa</string>
+    <string name="sun">Su</string>
+    <string name="alarms">Alarms</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="keep_trying">Keep trying</string>
+    <string name="right_answer">좋은 하루 되세요!</string>
+    <string name="title">문제를 풀며 잠에서 깨어나 보아요!</string>
+</resources>
