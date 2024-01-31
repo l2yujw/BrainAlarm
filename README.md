@@ -1,4 +1,6 @@
 ﻿# BrainAlarm
+> 수학 문제를 풀어야 알람이 꺼지는 어플
+ 
 pixel 3 XL API 29
 
 ---
